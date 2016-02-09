@@ -1,0 +1,9 @@
+{
+    "m_title":"Toggle",
+    "m_descr":"...",
+    "l_event_sources":"If any change",
+    "l_actors":"Then toggle",
+    "switchBinary":"Binary Switch",
+    "l_target_device":"Device",
+    "l_choose_dev":"--- Choose a device ---"
+}
